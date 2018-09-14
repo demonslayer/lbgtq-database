@@ -1,15 +1,5 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+Reddit Fantasy LBGTQ Database
 
-
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
-
+Searchable webapp adaptation of Krista D. Ball's wonderful LGBTQ fantasy database,
+found here: 
+https://docs.google.com/spreadsheets/d/1roLOB8OZm34XjzVyDmH5fyWiPKGYy8i9EzRuhBMZauo/edit#gid=0
